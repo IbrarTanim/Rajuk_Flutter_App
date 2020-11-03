@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "Checkbox Title": "Pile type, minimum depth required, minimum spacing required, minimum quantity required."
+  },
+  {
+    "id": "2",
+    "Checkbox Title": "Pile cap size, depth, quantity of piles per cap type and location."
+  },
+  {
+    "id": "3",
+    "Checkbox Title": "Pile cap reinforcing and connection of pile to pile cap."
+  },
+  {
+    "id": "4",
+    "Checkbox Title": "Dowels for columns."
+  },
+  {
+    "id": "5",
+    "Checkbox Title": "Dowels for walls."
+  },
+  {
+    "id": "6",
+    "Checkbox Title": "Clearance to reinforcing."
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "722923378567",
+    "firebase_url": "https://rajukflutter.firebaseio.com",
+    "project_id": "rajukflutter",
+    "storage_bucket": "rajukflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722923378567:android:914482affa66166db6a522",
+        "android_client_info": {
+          "package_name": "com.rajuk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722923378567-2v3gdrertblk47gku55kmen07hbp8lt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbAbUViSkMuN7u8Y_pQ0kzYQTUA8RQvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722923378567-2v3gdrertblk47gku55kmen07hbp8lt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

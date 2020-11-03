@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "Checkbox Title": "Floor plan configuration, dimensions, and total floor area."
+  },
+  {
+    "id": "2",
+    "Checkbox Title": "Setback or clearances for any elements projecting beyond ground floor."
+  },
+  {
+    "id": "3",
+    "Checkbox Title": "Building floor heights and total building height."
+  }
+
+]

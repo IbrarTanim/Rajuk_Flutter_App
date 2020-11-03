@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "Checkbox Title": "Wall thickness, horizontal and vertical reinforcing."
+  },
+  {
+    "id": "2",
+    "Checkbox Title": "Dowels from concrete slab to shear wall."
+  },
+  {
+    "id": "3",
+    "Checkbox Title": "Boundary element, longitudinal and transverse reinforcing."
+  }
+]

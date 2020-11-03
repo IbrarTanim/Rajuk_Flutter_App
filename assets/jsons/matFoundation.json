@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "Checkbox Title": "Mat foundation depth."
+  },
+  {
+    "id": "2",
+    "Checkbox Title": "Mat Foundation reinforcing, middle strip."
+  },
+  {
+    "id": "3",
+    "Checkbox Title": "Mat Foundation reinforcing, column strip."
+  },
+  {
+    "id": "4",
+    "Checkbox Title": "Dowels for columns."
+  },
+  {
+    "id": "5",
+    "Checkbox Title": "Dowels for walls."
+  },
+  {
+    "id": "6",
+    "Checkbox Title": "Reinforcing for punching shear (e.g. stud rails)"
+  },
+  {
+    "id": "7",
+    "Checkbox Title": "Clearance to reinforcing"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "Checkbox Title": "Minimum continuous footing widths and depth."
+  },
+  {
+    "id": "2",
+    "Checkbox Title": "Spread or isolated footing sizes and depths."
+  },
+  {
+    "id": "3",
+    "Checkbox Title": "Continuous footing reinforcing."
+  },
+  {
+    "id": "4",
+    "Checkbox Title": "Spread or isolated footing reinforcing."
+  },
+  {
+    "id": "5",
+    "Checkbox Title": "Dowels for walls at continuous footings."
+  },
+  {
+    "id": "6",
+    "Checkbox Title": "Dowels for columns at spread or isolated footings."
+  },
+  {
+    "id": "7",
+    "Checkbox Title": "Clearance to reinforcing."
+  }
+]

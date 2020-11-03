@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "Checkbox Title": "Shoring plans, location and configuration of shoring."
+  },
+  {
+    "id": "2",
+    "Checkbox Title": "Location and configuration of basement walls and plan dimensions."
+  },
+  {
+    "id": "3",
+    "Checkbox Title": "Basement wall thickness and reinforcing."
+  },
+  {
+    "id": "4",
+    "Checkbox Title": "Basement wall dowels to foundation."
+  },
+  {
+    "id": "5",
+    "Checkbox Title": "Clearance to reinforcing."
+  },
+  {
+    "id": "6",
+    "Checkbox Title": "Basement wall drainage and moisture protection."
+  }
+]

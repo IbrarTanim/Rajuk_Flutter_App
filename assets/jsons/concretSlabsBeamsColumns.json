@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "Checkbox Title": "Elevated concrete slab thickness, slab reinforcing, typical or middle strip."
+  },
+  {
+    "id": "2",
+    "Checkbox Title": "Elevated concrete slab reinforcing, column strip."
+  },
+  {
+    "id": "3",
+    "Checkbox Title": "Additional reinforcing at columns for punching shear (e.g. stud rails)."
+  },
+  {
+    "id": "4",
+    "Checkbox Title": "Slab dowels at concrete frame beams and girders."
+  },
+  {
+    "id": "5",
+    "Checkbox Title": "Concrete beam size, location and reinforcing (longitudinal and transverse)."
+  },
+  {
+    "id": "6",
+    "Checkbox Title": "Concrete girder size, location and reinforcing (longitudinal and transverse)."
+  },
+  {
+    "id": "7",
+    "Checkbox Title": "Concrete column size, orientation, location and reinforcing (longitudinal and transverse)."
+  },
+  {
+    "id": "8",
+    "Checkbox Title": "Transverse and longitudinal reinforcing at beam-column joint (e.g. hooks at end of longitudinal beam reinforcing)."
+  },
+  {
+    "id": "9",
+    "Checkbox Title": "Concrete beam and girder lap splice locations and lengths."
+  },
+  {
+    "id": "10",
+    "Checkbox Title": "Concrete column lap splice locations and lengths."
+  }
+]
